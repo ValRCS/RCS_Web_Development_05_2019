@@ -40,4 +40,4 @@ Build a simple index.html page with a tribute to your favorite person/being/anim
 
 https://validator.w3.org/#validate_by_upload+with_options
 
-Creata a new project for your tribute page on Gitnhub and host the page there.
+Creata a new project for your tribute page on Github and host the page there.
