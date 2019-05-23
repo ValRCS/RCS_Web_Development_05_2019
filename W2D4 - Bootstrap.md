@@ -38,6 +38,11 @@ Many paid Bootstrap Themes exist, build your own if you want :)
 ## Quick Start with Bootstrap 4
 * https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33
 
+## What is Hero in web design?
+
+* https://www.justinmind.com/blog/10-inspiring-hero-image-websites/
+* https://line25.com/articles/30-web-designs-that-fully-embrace-the-hero-image
+
 
 ## Bootstrap in 14 days -> 1 or 2 days for us :)
 https://bootstrapbay.com/blog/day-1-bootstrap-4-cdn-and-starter-template/
