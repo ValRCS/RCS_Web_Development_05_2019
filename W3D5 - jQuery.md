@@ -37,6 +37,7 @@ In **most** cases, the value of this is determined by how a function is called. 
 ## Learn jQuery
 * https://learn.jquery.com/
 * https://www.w3schools.com/jquery/jquery_intro.asp
+* https://css-tricks.com/lodge/learn-jquery/
 
 ## jQuery Exercises
 * https://learn.freecodecamp.org/front-end-libraries/jquery
