@@ -15,6 +15,15 @@
 
 * https://jqueryui.com/
 
+## One-way data binding in pure Javascript
+
+* https://jack.ofspades.com/frameworkless-javascript-part-3-one-way-data-binding/
+
+
+## Two-way data binding in pure Javascript
+
+* https://www.wintellect.com/data-binding-pure-javascript/
+
 # Vue.js
 
 * https://vuejs.org/v2/guide/
