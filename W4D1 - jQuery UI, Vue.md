@@ -15,6 +15,10 @@
 
 * https://jqueryui.com/
 
+# Data Binding
+
+* https://en.wikipedia.org/wiki/Data_binding
+
 ## One-way data binding in pure Javascript
 
 * https://jack.ofspades.com/frameworkless-javascript-part-3-one-way-data-binding/
