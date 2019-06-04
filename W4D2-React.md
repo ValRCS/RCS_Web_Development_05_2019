@@ -4,6 +4,14 @@
 
 * https://reactjs.org/
 
+
+# Create React App
+
+https://github.com/facebook/create-react-app
+
+## First we need Node (javascript on the server/your computer not in the browser)
+* https://nodejs.org/en/download/
+
 ## One-way data binding vs 2-way data binding
 * https://stackoverflow.com/questions/34519889/can-anyone-explain-the-difference-between-reacts-one-way-data-binding-and-angula
 
