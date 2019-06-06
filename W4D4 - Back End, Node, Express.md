@@ -17,6 +17,7 @@
 * https://nodejs.org/fa/docs/guides/event-loop-timers-and-nexttick/
 
 ## Setting up your project
+* https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
 * https://zellwk.com/blog/best-time-to-npm-init/
 
 ## Mozilla Node JS Tutorial
