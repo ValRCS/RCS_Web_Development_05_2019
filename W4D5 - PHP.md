@@ -21,6 +21,7 @@
 * https://phptherightway.com/
 
 # Videos
+* https://laracasts.com/series/php-for-beginners
 FreeCodeCamp 4hour video
 * https://www.youtube.com/watch?v=OK_JCtrrv-c
 
