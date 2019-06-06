@@ -20,6 +20,10 @@
 
 * https://phptherightway.com/
 
+## Visual Studio Code plugins
+
+* https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack
+
 # PhpStorm manual
 * https://www.jetbrains.com/help/phpstorm/quick-start-guide-phpstorm.html
 
