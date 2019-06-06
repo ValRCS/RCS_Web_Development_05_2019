@@ -7,6 +7,8 @@
 
 # Tutorials
 
+* https://www.php.net/manual/en/intro-whatis.php
+* https://www.php.net/manual/en/
 * https://www.guru99.com/what-is-php-first-php-program.html
 * https://www.tutorialspoint.com/php7/
 * https://www.w3schools.com/php7/default.asp
