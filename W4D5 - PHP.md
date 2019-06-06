@@ -13,11 +13,9 @@
 * https://www.tutorialspoint.com/php7/
 * https://www.w3schools.com/php7/default.asp
 * https://www.tutorialrepublic.com/php-tutorial/
+* https://developer.hyvor.com/tutorials/php/introduction
 
 # Guides
-
-* https://phptherightway.com/
-
 # Books, resources
 
 * https://phptherightway.com/
