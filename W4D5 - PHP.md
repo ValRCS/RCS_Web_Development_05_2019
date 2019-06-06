@@ -22,6 +22,10 @@
 
 * https://phptherightway.com/
 
+# Videos
+FreeCodeCamp 4hour video
+* https://www.youtube.com/watch?v=OK_JCtrrv-c
+
 ## Visual Studio Code plugins
 
 * https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack
