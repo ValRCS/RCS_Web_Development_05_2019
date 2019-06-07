@@ -5,6 +5,50 @@
 * https://php.net/
 ![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1422px-PHP-logo.svg.png)
 
+
+# Basic: How does a web server work? 
+* https://computer.howstuffworks.com/web-server.htm
+* https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+
+## How do front-end,back-end.full-stack differ?
+* https://blog.usejournal.com/front-end-back-end-full-stack-what-exactly-are-they-talking-about-fbd5d3fd4939
+
+
+## How does a PHP web server work?
+* https://guide.freecodecamp.org/php/
+![PHP work](https://github.com/xeroxism/myImages/blob/master/FCC_guides/PHP-server-model.png?raw=true)
+
+
+# Static vs dynamic web pages
+* https://en.wikipedia.org/wiki/Static_web_page
+![Static](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scheme_static_page_en.svg/750px-Scheme_static_page_en.svg.png)
+
+* https://en.wikipedia.org/wiki/Dynamic_web_page
+![Dynamic](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Scheme_dynamic_page_en.svg/750px-Scheme_dynamic_page_en.svg.png)
+
+# Web Development Stacks
+
+* [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29)
+
+![LAMP](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/LAMP_software_bundle.svg/600px-LAMP_software_bundle.svg.png)
+
+* LAMP(Linux/Apache/MySQL/PHP)
+* MEAN(Mongo/Express/AngularJS/Node)
+* JAMstack
+Many more
+
+## Istalling xAMP type stacks (WAMP,LAMP,MAMP?)
+
+Many different prebuild stacks
+Cload installer Bitnami provides many convenient prebuilt stacks
+* https://bitnami.com/stacks/infrastructure
+Choose (WAMP/LAMP/MAMP)
+
+## Hello world in PHP
+* https://secure.php.net/manual/en/tutorial.firstpage.php
+
+* https://secure.php.net/manual/en/tutorial.useful.php
+
 # Tutorials
 
 * https://www.php.net/manual/en/intro-whatis.php
