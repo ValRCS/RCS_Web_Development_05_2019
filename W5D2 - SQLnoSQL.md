@@ -1,3 +1,7 @@
+# How would we store a hitcounter?
+* http://justintadlock.com/web-design/counter
+## What possible problem(s) would be with such a solution?
+
 # Databases
 
 ## SQL
