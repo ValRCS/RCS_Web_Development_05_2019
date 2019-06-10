@@ -84,6 +84,14 @@ Domain-specific language used in programming and designed for managing data held
 ## Connecting into SQLite in PHP
 http://www.sqlitetutorial.net/sqlite-php/
 
+# SQL Exercises
+
+* https://www.w3schools.com/sql/sql_exercises.asp
+* https://www.w3resource.com/sql-exercises/
+* https://sqlbolt.com/
+* https://www.hackerrank.com/challenges/revising-the-select-query/problem
+
+
 ## NoSQL
 
 * https://www.3pillarglobal.com/insights/exploring-the-different-types-of-nosql-databases
