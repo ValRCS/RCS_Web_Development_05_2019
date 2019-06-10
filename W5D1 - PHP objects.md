@@ -6,6 +6,7 @@
 
 * https://developer.hyvor.com/tutorials/php/oop-intro
 * https://www.php.net/manual/en/language.oop5.php
+* https://www.ict.social/php/oop
 
 
 
