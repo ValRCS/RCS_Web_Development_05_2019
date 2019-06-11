@@ -6,3 +6,6 @@
 # Blog Tutorial
 
 * https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog/introduction
+
+## another PHP OOP tutorial
+* https://www.ict.social/php/oop
