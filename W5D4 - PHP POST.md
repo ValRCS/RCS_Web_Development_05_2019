@@ -15,7 +15,8 @@
 
 ## POST vs GET
 
-TLDR; Prefer POST!
+TLDR; POST is preferable for sending data for changing on the server
+GET is more suited for retrieving data
 * https://www.tutorialspoint.com/php/php_get_post.htm
 * https://www.w3schools.com/tags/ref_httpmethods.asp
 * https://stackoverflow.com/questions/504947/when-should-i-use-get-or-post-method-whats-the-difference-between-them
