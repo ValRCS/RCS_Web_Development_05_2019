@@ -20,3 +20,8 @@ GET is more suited for retrieving data
 * https://www.tutorialspoint.com/php/php_get_post.htm
 * https://www.w3schools.com/tags/ref_httpmethods.asp
 * https://stackoverflow.com/questions/504947/when-should-i-use-get-or-post-method-whats-the-difference-between-them
+
+## Initiating POST request from Javascript
+
+* https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/
+* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
