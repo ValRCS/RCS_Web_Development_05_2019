@@ -2,6 +2,7 @@
 
 * https://docs.php.earth/faq/misc/structure/
 * https://blog.nikolaposa.in.rs/2017/01/16/on-structuring-php-projects/
+* https://phptherightway.com/#common_directory_structure
 
 ## Code Guidelines
 * https://www.php-fig.org/psr/psr-1/
@@ -20,4 +21,5 @@
 * https://www.brainbell.com/php/auto-loading.html
 * https://developer.hyvor.com/php/autoload-classes-namespaces
 * https://developer.hyvor.com/tutorials/php/oop-autoloading
+* https://stackoverflow.com/questions/48723309/default-spl-autoload-register-namespace-behavior-with-index-php-outside-root
 * https://www.php-fig.org/psr/psr-4/
