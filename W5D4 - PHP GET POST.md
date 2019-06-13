@@ -1,3 +1,20 @@
+# GET requests
+For obtaining resource only NOT modifying!
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET
+
+* https://www.php.net/manual/en/reserved.variables.get.php
+
+_GET is not a function but associative array
+* https://teamtreehouse.com/community/im-trying-to-understand-the-get-function-in-php
+
+## Prettify URLs with Apache for GET values
+* https://www.digitalocean.com/community/tutorials/how-to-rewrite-urls-with-mod_rewrite-for-apache-on-ubuntu-16-04
+* https://bartsimons.me/pretty-urls-in-apache-getting-started-tutorial-2/
+
+## Refreshing pages via PHP
+* https://stackoverflow.com/questions/12383371/refresh-a-page-using-php
+
+
 # POST requests
 
 * https://en.wikipedia.org/wiki/POST_(HTTP)
