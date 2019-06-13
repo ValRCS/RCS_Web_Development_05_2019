@@ -3,6 +3,7 @@
 * https://docs.php.earth/faq/misc/structure/
 * https://blog.nikolaposa.in.rs/2017/01/16/on-structuring-php-projects/
 * https://phptherightway.com/#common_directory_structure
+* https://github.com/php-pds/skeleton
 
 ## Code Guidelines
 * https://www.php-fig.org/psr/psr-1/
