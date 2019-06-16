@@ -11,6 +11,10 @@
 * https://www.w3schools.com/pHp/php_sessions.asp (well unique hash is stored on users computer)
 * https://www.tutorialspoint.com/php/php_sessions.htm
 
+## How do sessions really work underneath?
+* https://stackoverflow.com/questions/1535697/how-do-php-sessions-work-not-how-are-they-used
+* https://www.quora.com/How-does-a-PHP-session-work
+
 # Authentication
 * http://php.net/manual/en/features.http-auth.php
 * https://developer.okta.com/blog/2018/07/09/five-minute-php-app-auth
