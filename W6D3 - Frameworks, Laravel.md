@@ -6,6 +6,11 @@
 
 * https://laravel.com/docs/5.8/installation
 
-## Laracasts learning materials
+
+## Tutorials
+ * https://laravel-news.com/your-first-laravel-application
+
+## Laracasts learning materials for PHP and other things
 Some free
+
 * https://laracasts.com/
