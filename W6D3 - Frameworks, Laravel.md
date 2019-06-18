@@ -6,6 +6,14 @@
 
 * https://laravel.com/docs/5.8/installation
 
+## Laravel Homestead
+
+* https://laravel.com/docs/5.8/homestead
+
+## Vagrant Virtualization Automation
+
+* https://www.vagrantup.com/
+
 
 ## Tutorials
  * https://laravel-news.com/your-first-laravel-application
