@@ -26,3 +26,6 @@ Some free
 
 ## Wordpress Coding Standard
 * https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
+
+## Uploading Files
+* https://www.w3schools.com/php/php_file_upload.asp
