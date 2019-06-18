@@ -14,3 +14,7 @@
 Some free
 
 * https://laracasts.com/
+
+
+## Wordpress Coding Standard
+* https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
