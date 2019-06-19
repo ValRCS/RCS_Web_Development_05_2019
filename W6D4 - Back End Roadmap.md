@@ -64,6 +64,10 @@ Discussion on Docker vs Homestead (2017 - things change quickly)
 * https://www.linode.com/docs/web-servers/lamp/
 
 
+## Careful with EIG owned companies
+* https://en.wikipedia.org/wiki/Endurance_International_Group
+
+
 # Other Languages for back-end
 
 ## Javascript (Node.js)
