@@ -9,6 +9,11 @@
 * https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 * https://www.php-fig.org/psr/psr-4/
 
+## Packege Repository for PHP
+
+* https://packagist.org/
+![Packagist](https://packagist.org/bundles/packagistweb/img/logo-small.png)
+
 # What is the purpose behind frameworks?
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks
