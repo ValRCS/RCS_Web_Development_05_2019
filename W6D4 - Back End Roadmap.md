@@ -53,6 +53,9 @@ Discussion on Docker vs Homestead (2017 - things change quickly)
 * https://bitnami.com/stack/lamp/cloud
 * Cheapest would be Microsoft's Azure B1S - https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/
 
+## Hostings with free plan (not suitable for production)
+* https://www.planethoster.com/en/World-Lite
+
 ### Pretty much ALL web hosting providers provide PHP/MySQL 
 
 # Latvian Web Hosts compared (all serve LAMP)
