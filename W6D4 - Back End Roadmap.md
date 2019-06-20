@@ -14,6 +14,10 @@
 * https://packagist.org/
 ![Packagist](https://packagist.org/bundles/packagistweb/img/logo-small.png)
 
+## Setting up Autoloader
+
+* https://medium.com/@jodylecompte/making-sense-of-php-autoloading-ae1dd11678c2
+
 # What is the purpose behind frameworks?
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks
