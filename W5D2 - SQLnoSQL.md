@@ -96,3 +96,6 @@ http://www.sqlitetutorial.net/sqlite-php/
 
 * https://www.3pillarglobal.com/insights/exploring-the-different-types-of-nosql-databases
 * https://www.sitepoint.com/sql-vs-nosql-differences/
+
+# Video
+* https://www.youtube.com/watch?v=qI_g07C_Q5I
