@@ -96,6 +96,8 @@ http://www.sqlitetutorial.net/sqlite-php/
 
 * https://www.3pillarglobal.com/insights/exploring-the-different-types-of-nosql-databases
 * https://www.sitepoint.com/sql-vs-nosql-differences/
+## Critique of Mongo
+* https://www.nemil.com/mongo/index.html
 
-# Video
+# Video on noSQL
 * https://www.youtube.com/watch?v=qI_g07C_Q5I
