@@ -10,3 +10,6 @@
 
 ##  Advanced series on Javascript for those who think they know it :)
 * https://github.com/getify/You-Dont-Know-JS
+
+## Callbacks
+* https://zellwk.com/blog/callbacks/
