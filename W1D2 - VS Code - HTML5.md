@@ -15,3 +15,7 @@
 
 * https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 * https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-images-to-your-website
+
+## HTML5 capabilities
+
+* https://dev.to/ananyaneogi/html-can-do-that-c0n
